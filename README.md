@@ -1,4 +1,4 @@
-# Binance Futures Algorithmic Trading Bot (BTCUSDT)
+# Binance Futures USDM Algorithmic Trading Bot (BTCUSDT) - MACD
 
 This poject is same as this project - [Binanace-Futures-USDM-algobot-v5-15min-candle-production-code](https://github.com/pandiyan07/Binanace-Futures-USDM-algobot-v5-15min-candle-production-code)
 
