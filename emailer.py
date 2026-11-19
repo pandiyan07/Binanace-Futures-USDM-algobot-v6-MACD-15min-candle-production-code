@@ -201,9 +201,9 @@ def EMAIL_SENDER(status,argument):
             print('\n\n\nTHERE IS NO TRADE TODAY\n\n\n')
     
     
-    sender_email = "becool.pandiyan@gmail.com"
-    sender_password = "bymthsinqckstzod"
-    receiver_email = ["nithyananth3377@gmail.com","becool.pandiyan@gmail.com"] 
+    sender_email = "pandiyan07@gmail.com"
+    sender_password = "bymdddnsxadnzdzskstzod"
+    receiver_email = ["supersaiyan@gmail.com","pandiyan07@gmail.com"] 
 
     msg['From'] = sender_email
     msg['To'] = ", ".join(receiver_email)
